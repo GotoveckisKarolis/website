@@ -127,11 +127,10 @@ ul {
 
 .quote {
   background-color: #E5E7EB;
-  padding: 100px 200px;
+  padding: 80px 300px;
   font-style: italic;
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
 }
 
 .quote_text {
