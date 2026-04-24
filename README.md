@@ -1,1 +1,1 @@
-This is my first HTMl & CSS web page. Powered by The Odin Project
+This is my first HTML & CSS web page. Powered by The Odin Project
